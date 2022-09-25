@@ -23,7 +23,7 @@ email: logopediagalapagar@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Logopedia Galapagar es un concepto de Logopedia que responde a las necesidades en el desarrollo del
   lenguaje, la comunicación y la deglución tanto de niños como de adultos.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/lg_blog/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
